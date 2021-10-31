@@ -1,3 +1,4 @@
 # Myfirstrepository
-learning git through outscal
+learning git through outscal videos
+
 

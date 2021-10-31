@@ -1,2 +1,3 @@
 # Myfirstrepository
-learning git 
+learning git through outscal
+
